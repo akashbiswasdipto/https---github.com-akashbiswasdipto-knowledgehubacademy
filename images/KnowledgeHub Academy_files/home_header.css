@@ -1,0 +1,46 @@
+@import'fonts.css';
+.header{
+    width: 100%;
+}
+
+.content_left{
+    width: 5%;
+    float: left;
+    text-align: center;
+}
+
+.content_middle{
+    width: 75%;
+    float: left;
+    text-align: left;
+    padding: 10px 0px;
+}
+
+.content_right{
+    width: 20%;
+    float: left;
+    text-align: right;
+    padding: 10px 0px;
+}
+
+.header a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: 'Afacad', sans-serif;
+}
+
+.header_logo{
+    height: auto;
+    width: 50%;
+    transform: rotation 2s infinite linear;
+
+}
+
+.header a:hover{
+    background-color: black;
+    color: white;
+    transition-duration: .2s;
+    border-radius: 5px;
+}

@@ -1,0 +1,53 @@
+@import'fonts.css';
+
+.contact_us{
+    height: 100%;
+    width: 100%;
+    padding-top: 50px;
+}
+
+.contact_us h1{
+    text-align: center;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+
+.contact_margin{
+    width: 70%;
+    margin: 100px 15% 0 15%;
+    text-align: center;
+}
+
+.contact_left{
+    width: 47%;
+    margin: 0 1.5% 0 1.5%;
+    float: left;
+}
+
+.contact_icon{
+    width: 100px;
+}
+.contact_middle{
+    width: 47%;
+    margin: 0 1.5% 0 1.5%;
+    float: left;
+}
+
+.contact_margin h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 25px;
+}
+
+.contact_margin h2{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.contact_margin h5{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+    margin: 0;
+}

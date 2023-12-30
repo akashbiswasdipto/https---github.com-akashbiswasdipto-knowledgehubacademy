@@ -1,0 +1,45 @@
+@import'fonts.css';
+@import'section_2.css';
+@import'section_3.css';
+
+.section_1{
+    width: 100%;
+    height: auto;
+    padding-top: 100px;
+}
+
+hr{
+    width: 20%;
+}
+.section1_textbox{
+    width: 40%;
+    margin: 100px 30% 100px 30%;
+    text-align: center;
+}
+
+.section1_textbox h1{
+    font-size: 80px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.section1_textbox p{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 60px;
+}
+
+.enroll{
+    text-decoration: none;
+    padding: 15px 60px;
+    border: 2px solid black;
+    color: black;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+.enroll:hover{
+    background-color: black;
+    color:white;
+    transition-duration: .2s;
+}

@@ -1,0 +1,21 @@
+@import'fonts.css';
+.home_room{
+    text-align: center;
+    padding-top: 150px;
+}
+
+.home_room h2{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+.txt{
+    font-family: 'Afacad', sans-serif;
+    font-size: 60px;
+}
+
+.home_room h5{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,75 @@
+@import'fonts.css';
+
+.box{
+    width: 90%;
+    margin: 0 5% 0 5%;
+    padding-top: 100px;
+    height: 600px;
+}
+
+.fees_check{
+    width: 45%;
+    float: left;
+    text-align: center;
+    border-right: 3px solid black;
+    height: 100%;
+}
+
+.fees_check h1{
+    font-family: 'Afacad', sans-serif;
+    font-size: 100px;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+.fees{
+    text-align: left;
+    width: 45%;
+    float: left;
+    margin-left: 5%;
+}
+
+.feesinput{
+    width: 300px;
+    height: 40px;
+    margin: 0 0 0 0;
+    border-radius: 3px;
+    border: 1px solid;
+}
+
+.fees h1{
+    font-family: 'Afacad', sans-serif;
+    font-size: 100px;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+.fees h5{
+    font-family: 'Afacad', sans-serif;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+select{
+    width: 300px;
+    height: 30px;
+}
+
+.submit{
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    font-family: 'Afacad', sans-serif;
+    font-weight: 400px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    border: 1px solid;
+    margin-top: 20px;
+}
+
+.submit:hover{
+    background-color: black;
+    color: white;
+    transition-duration: .2s;
+}

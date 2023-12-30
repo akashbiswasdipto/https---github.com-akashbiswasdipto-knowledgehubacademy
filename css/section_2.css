@@ -1,0 +1,38 @@
+.section_2{
+    width: 60%;
+    margin: 200px 20% 100px 20%;
+    height: 300px;
+}
+
+.portion{
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.portion_icon{
+    width: 100px;
+    height: auto;
+}
+
+.portion a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.portion h1{
+    font-size: 30px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+.portion:hover a{
+    border: 2px solid black;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,54 @@
+@import'fonts.css';
+
+.title_course{
+    width: 90%;
+    padding: 80px 0;
+    text-align: center;
+    height: 200px;
+    margin: 0 5% 0 5%;
+
+}
+
+.course_icon{
+    width: 80px;
+    height: auto;
+}
+.title_course h1{
+    padding: 20px 20px;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.courses{
+    width: 30%;
+    margin: 0 1.5% 0 1.5% ;
+    float: left;
+    height: 350px;
+}
+
+.courses h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 25px;
+    padding: 5px 0px;
+}
+
+.courses p{
+    font-family: 'Afacad', sans-serif;
+    padding-bottom: 10px;
+}
+
+.courses a{
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
+    color: black;
+    padding: 10px 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+    
+}
+
+.courses a:hover{
+    background-color: black;
+    color: white;
+}

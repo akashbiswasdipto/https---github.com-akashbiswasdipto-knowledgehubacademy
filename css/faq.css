@@ -1,0 +1,29 @@
+@import'fonts.css';
+.faq_title{
+    padding-top: 50px;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.faq{
+    width: 95%;
+    margin-left: 5%;
+    padding-top: 20px;
+    
+}
+
+.faq h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 25px;
+}
+
+.faq h5{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+}
+
+.faq h2{
+    font-size: 30px;
+    font-weight: 700px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+

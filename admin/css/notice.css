@@ -1,0 +1,81 @@
+@import'fonts.css';
+
+.notice_box{
+    text-align: center;
+    width: 90%;
+    margin: 0 5% 0 5%;
+    padding-top: 100px;
+    font-family: 'Afacad', sans-serif;
+}
+
+.notice_box h1{
+    font-size: 100px;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+.notice_upload{
+    width: 46%;
+    float: left;
+    text-align: right;
+    border-right: 2px solid black;
+    padding-right: 4%;
+}
+
+.notice_upload h1{
+    font-size: 40px;
+}
+
+.notice_upload h5{
+    font-size: 20px;
+    color: red;
+}
+.notice_input{
+    width: 400px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+
+
+.notice_inputl{
+    width: 400px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.notice_list{
+    width: 45%;
+    margin-left: 4%;
+    float: left;
+    text-align: left;
+}
+
+.notice_list h1{
+    font-size: 40px;
+}
+
+.submit{
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    font-family: 'Afacad', sans-serif;
+    font-weight: 400px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    border: 1px solid;
+    margin-top: 20px;
+}
+
+.submit:hover{
+    background-color: black;
+    color: white;
+    transition-duration: .2s;
+}
+
+td{
+    width: auto;
+    padding-right: 80px;
+    padding-top: 20px;
+}
